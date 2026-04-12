@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款热点操盘手"
+  short_description: "热点判断、角度选择、爆款标题和短视频拍摄提纲全流程"
+  default_prompt: "Use $viral-hotspot-operator to judge whether this hotspot is worth following and turn it into a publish-ready short-video content pack."
